@@ -1,1 +1,2 @@
 This file is created in branch 1.
+this file is edited in branch 2.
